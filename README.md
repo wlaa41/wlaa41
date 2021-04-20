@@ -6,6 +6,7 @@
 - 💞️ I’m looking to collaborate on 
 <hr>
 - 📫 sccmarkting@gmail.com
+- <img src="./intro.svg" alt="" />
 
 <!---
 wlaa41/wlaa41 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
