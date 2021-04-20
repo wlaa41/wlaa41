@@ -2,26 +2,26 @@
 
     <svg viewBox="0 0 240 80" xmlns="http://www.w3.org/2000/svg">
       <style>
-        .small { font:  13px sans-serif;fill: rgb(49, 49, 49); letter-spacing: -.4px; }
-        .xsmall { font:  8px sans-serif; fill: rgb(49, 49, 49);  }
-        .xxsmall { font:  bold 8px sans-serif; fill: rgb(49, 49, 49); letter-spacing: 00px; }
+        .small { font:  13px sans-serif;fill: rgb(100, 100, 100); letter-spacing: -.4px; }
+        .xsmall { font:  8px sans-serif; fill: rgb(100, 100, 100);  }
+        .xxsmall { font:  bold 8px sans-serif; fill: rgb(111, 111, 111); letter-spacing: 00px; }
         .heavy { font: bold 30px sans-serif;
-          animation: pulse 5s alternate infinite;
+          animation: pulse 66s alternate infinite;
         
         }
         @keyframes pulse {
           0% {
-            fill: rgb(223, 246, 158);
+            fill: rgb(255, 83, 135);
           }
           100% {
-            fill :rgb(246, 158, 212);
+            fill :rgb(57, 238, 255);
           }
         }
 
-        .mid { font: bold 21px sans-serif; fill: rgb(49, 49, 49); }
+        .mid { font: bold 21px sans-serif; fill: rgb(140, 140, 140); }
         .flip { 
             font:  11px bold sans-serif ;
-            fill: rgb(49, 49, 49);  
+            fill: rgb(125, 125, 125);  
             text-orientation: mixed;
             writing-mode: vertical-lr;
               letter-spacing: -.4px;
