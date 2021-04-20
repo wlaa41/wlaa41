@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <svg viewBox="0 0 240 80" xmlns="http://www.w3.org/2000/svg">
+      <style>
+        .small { font:  13px sans-serif;fill: rgb(49, 49, 49); letter-spacing: -.4px; }
+        .xsmall { font:  8px sans-serif; fill: rgb(49, 49, 49);  }
+        .xxsmall { font:  bold 8px sans-serif; fill: rgb(49, 49, 49); letter-spacing: 00px; }
+        .heavy { font: bold 30px sans-serif;
+          animation: pulse 5s alternate infinite;
+        
+        }
+        @keyframes pulse {
+          0% {
+            fill: rgb(223, 246, 158);
+          }
+          100% {
+            fill :rgb(246, 158, 212);
+          }
+        }
+
+        .mid { font: bold 21px sans-serif; fill: rgb(49, 49, 49); }
+        .flip { 
+            font:  11px bold sans-serif ;
+            fill: rgb(49, 49, 49);  
+            text-orientation: mixed;
+            writing-mode: vertical-lr;
+              letter-spacing: -.4px;
+ }
+      </style>
+    
+      <text x="40" y="35" class="small">Hello,</text>
+      <text x="72" y="35" class="small">I am </text>
+      <text x="95" y="35" class="heavy">Will</text>
+      <text x="20" y="44" class="xsmall">This is made </text>
+      <text x="44" y="51" class="xxsmall">using </text>
+      <text x="65" y="53" class="mid">CSS</text>
+      <text x="113" y="38" class="flip">and</text>
+      <text x="117" y="53" class="mid">HTML</text>
+
+      <!-- <text x="65" y="55" class="mid">CSS!</text> -->
+    </svg>
