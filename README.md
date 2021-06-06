@@ -2,8 +2,6 @@
 <hr>
 <h4>I’m interested in science and artificial intelligence</h4>
 <h4 color='red'>I’m currently learning MSc of Artificial Intelligence</h4>
-<h4>I’m looking to collaborate on </h4>
-<h4>sccmarkting@gmail.com</h4>
 <p align="center">
 <img src="./intro.svg" alt="" />
 </p>
