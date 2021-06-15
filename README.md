@@ -9,6 +9,9 @@ Some technology that I enjoy working with: TensorFlow, Unity ML Agent, Reinforce
 <h4 >
 I value descriptuion and visualization. I personally believe it is almost as important as the technical part. It manifest ideas, also it makes sharing points and knowledge easier, thus, aside from my skills in SASS and Adobe designing tools. I am currently studying ThreeJS and D3js.
 </h4>
+<h2> visit my porfolio for more </h2>
+<a target='wlaa41.github.io/Portfolio/'> click here</a>
+
 <p align="center">
 <img src="./intro.svg" alt="" />
 </p>
