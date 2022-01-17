@@ -1,4 +1,4 @@
-<h1>  Hello, I’m Walla Jam </h1>
+<h1>  Hello, I’m Will Jam </h1>
 <hr>
 <h4>
 I have over 10 years of experience in home automation systems and project management after having worked in Research and Development for my self-founded home automation business. I earned a BSc degree in Electronic and Telecom in 2010 and last year I decided to pursue a bigger goal and embarked on the MSc degree in Artificial intelligence. Whilst covering numerous topics I have enjoyed studying Math in particular. I rediscovered the beauty of calculus and linear algebra. I like designing 2D/3D simulators, Plotly/PlotlyJS and matplotlib of equation and concepts. I am now keen to apply my knowledge of these in real life applications.
