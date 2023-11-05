@@ -6,9 +6,10 @@ Welcome to my GitHub profile! I am an AI enthusiast with a passion for home auto
 
 ### 🎓 Education
 
-- **MSc in Robotics and AI** -  City University of London, 2023
+- **MSc in Robotics and AI** -  City University of London, 2024
+- **Professional Electrical Course** -  Access Training Academies, 2024
 - **PG Cert in AI and ML** (Distinction) - City University of London, 2022
-- **BSc in Electronic and Telecommunications** - [Year], [University Name]
+- **BSc in Electronic and Telecommunications** - 2013
 
 ### 💼 Professional Experience
 
