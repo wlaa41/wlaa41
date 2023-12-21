@@ -53,11 +53,14 @@ Believing in the synergy of visualization and technical acumen, I advocate for m
 - **Portfolio**: [Explore Will's Portfolio](https://wlaa41.github.io/Portfolio/)
 
 ---
-
+<br>
+<br>
+<br>
+<br>
 **Fun Fact**: They say in the world of binary, there are 10 types of people: those who understand binary and those who don't! 😄
 
 [Explore My Portfolio](https://wlaa41.github.io/Portfolio/)
-
+<!---
 <p align="center">
   <img src="./intro.svg" alt="Will Jamous - AI and Robotics Professional" />
 </p>
