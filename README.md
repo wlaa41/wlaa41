@@ -6,7 +6,7 @@ Welcome to my professional GitHub profile! As an enthusiast in the realms of art
 
 ### 🎓 Educational Background
 
-- **MSc in Robotics and AI** (Anticipated 2024) - City University of London
+- **PhD in Robotics and AI** (Anticipated 2024) - City University of London
 - **Professional Electrical Course** (Anticipated 2024) - Access Training Academies
 - **PG Cert in AI and ML** (Distinction, 2022) - City University of London
 - **BSc in Electronic and Telecommunications** (2013)
