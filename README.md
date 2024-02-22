@@ -1,84 +1,80 @@
-# Will Jamous
+# Walaa Will Jamous
+## Robotic/DevOps Engineer
+- 📞 07307565444
+- 📧 [rutaul41@gmail.com](mailto:rutaul41@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/smartwill/)
+- 💻 [GitHub](https://github.com/wlaa41)
+- 📍 Right of Work: British
 
-## AI and Robotics Enthusiast with a Specialization in Advanced Robotic Systems and Mathematical Modelling
+## Skills & Other
+- **Tools**: Python, JavaScript, HTML, C#, Docker, Kubernetes, Terraform, Ansible, Azure, Azure DevOps, Git, GitHub, Prometheus, TensorFlow, PyTorch, CNNs, RL, ANN. KNX, Control4, MATLAB.
+- **Robotics**: Cameras, lidars, IMUs, GNSS, and ground truth systems like motion capture and 3D scanning.
+- **Modeling, 3D, & Visualization**: SketchUp, AutoCAD, SolidWorks, ThreeJS, Panda, Plotly.
+- **Certifications**: BSc Electrical Engineering, Hashicorp Terraform Associate 003 (in progress), DevOps Engineering (AiCore). (Distinction) PG in Artificial Intelligence and Machine Learning (City, University of London). KNX Engineer.
 
-Welcome to my professional GitHub profile! As an enthusiast in the realms of artificial intelligence and robotics, I am dedicated to integrating state-of-the-art AI methodologies into practical applications, with a particular focus on home automation and smart technologies.
+## Work Experience
+### Appitunity
+**R&D Manager** - 01/2018 – 01/2022
+- Spearheaded 30+ SEO, SEM, and website optimization projects, demonstrating strategic leadership.
+- Led a team of 15+ software developers and engineers, driving software innovations and AI integrations to enhance user experience and operational efficiency.
+- Led the deployment of 150+ cloud-based and embedded systems projects, enhancing operational efficiencies and embedded system reliability across multiple platforms.
+- Managed and coordinated cross-functional teams of up to 20+ members, facilitating collaboration and project success in complex technical environments.
 
-### 🎓 Educational Background
+## Projects
+### Azure DevOps Pipeline - 11/2023
+- Containerized a Python application with Docker, simplifying deployment across various environments.
+- Automated 8 Azure resource deployments, including a Terraform-managed AKS cluster, demonstrating infrastructure as code proficiency.
+- Authored Kubernetes manifests for a Deployment with 3 replicas and a Cluster IP service, leading a 5-engineer team.
+- Implemented a rolling update strategy in Kubernetes, ensuring minimal downtime and high availability.
+- Streamlined CI/CD processes with Azure DevOps, halving deployment time. Enhanced system reliability through Azure Monitor, tracking 10+ key performance metrics post-deployment.
 
-- **PhD in Robotics and AI** (Anticipated 2024) - City University of London
-- **Professional Electrical Course** (Anticipated 2024) - Access Training Academies
-- **PG Cert in AI and ML** (Distinction, 2022) - City University of London
-- **BSc in Electronic and Telecommunications** (2013)
+### Unicampus Gazebo Simulation with Jackal Robot - 01/2023
+- Developed a detailed Gazebo simulation environment for the Jackal robot, focusing on SLAM and autonomous navigation, demonstrating expertise in robotics and simulation.
+- Authored comprehensive guides on setting up and running simulations, highlighting proficiency in documentation and user support.
+- Implemented custom Gazebo models and ROS packages, showcasing skills in 3D modeling and software development for robotics applications.
 
-### 💼 Professional Milestones
+### SLAM and Lidar Projects - 06/2023
+- Executed projects utilizing SLAM technology and lidar sensors for robotics navigation and mapping, emphasizing a strong foundation in autonomous systems.
+- Conducted in-depth analysis and data extraction using Python, enhancing capabilities in data processing and interpretation.
 
-- **R&D Director at My Smart Home** (2016 - 2020): Spearheaded research and development efforts, driving innovations in AI-driven home automation technologies.
-- **Director, APPITUNITY** (2020 - 2023): Focused on leading teams to develop innovative software solutions with a user-centric approach, integrating AI for enhanced user experiences.
-- **S&D Manager, Building Automation** (2015 - 2016): Managed and guided teams towards quality-driven delivery of automated building solutions.
-- **Assistant Instructor of Programming** (2012 - 2015): Imparted programming knowledge to budding developers, focusing on practical and theoretical aspects of software development.
+### Advanced Mosaicking Image Processing Library (03/2022)
+- Developed an OpenCV-Python library for robust feature detection and matching using SIFT, SURF, ORB, AKAZE, and BRISK.
+- Integrated numerous image enhancement filters such as GaussianBlur, CLAHE, MedianBlur, and BilateralFilter.
+- Ensured consistent setup through Docker deployment and automated stitching processes, highlighting proficiency in Python and OpenCV.
 
-### 🛠 Core Competencies
+### System Dynamics and Stability Analysis Project (03/2022)
+- Focused on RPV dynamics, modeling flight behaviors and control responses based on motion equations and aerodynamic forces.
+- Utilized MATLAB for simulation and analysis, contributing to aerospace engineering and autonomous vehicle development through stability analysis with eigenvectors and eigenvalues.
 
-- Expertise in Robotics, AI, ML, and Autonomous Systems.
-- Proficient in Python, Java, C++, and ROS (Robot Operating System).
-- Experienced with TensorFlow, Unity ML Agent, Reinforcement Learning, OpenCV, PyTorch.
-- Skilled in Mathematical Modelling and 2D/3D Simulation Design.
-- Advanced data visualization capabilities using Plotly/PlotlyJS, Matplotlib, ThreeJS, D3.js.
-- Frontend development proficiency with ReactJS, SASS, and Adobe Design Tools.
-- 3D Design with AutoCAD 3D, Solidworks.
+### AI Projects (11/2021)
+- Led Python-based AI & ML projects, including pathfinding with Ant Colony, ANN Simulation with 92% accuracy on MNIST, and optimized routing with Dijkstra's and A* algorithms.
+- Achieved 92% accuracy in Boston dataset house price predictions, demonstrating strong data analysis and machine learning model development skills.
+- Applied the Rescorla-Wagner model for psychological learning simulations, bridging theoretical AI concepts with practical applications.
 
-### 🏆 Notable Achievements
+## Smart Home Automation Projects (12/2019)
+- Directed over 100 luxury smart home projects, integrating DALI, KNX, and C-Bus systems for mansions, villas, and palaces.
+- Automated high-end features such as AC, jacuzzis, curtains, and garages using Control4 and Crestron systems; proficient with Jira, Jung, Schneider Electric, and ABB.
 
-- **CitySpark Startup Competition Winner** (2022) - Recognized for innovation in the "Maker" category.
+## Education
 
-### 📚 Current Focus
+### City University of London, PhD (Expected 02/2025)
+**PhD in Robotics, AI, and Autonomous Systems**
+- Focusing on developing autonomous systems using advanced math and ML models, contributing to peer-reviewed publications.
 
-- Deepening expertise in ROS for robotic applications.
-- Advancing skills in mathematical modelling for complex system analysis.
+### AiCore, Immersive Program (Completed 02/2024)
+**DevOps Engineering**
+- Covered Python, CLI, version control, OOP, and DevOps practices. Proficient in Docker, Azure, Kubernetes, Terraform, and AKS.
 
-### 📝 Philosophy
+### City University of London, MSc (Completed 02/2022)
+**MSc in Artificial Intelligence and Machine Learning**
+- Specialized in embedded systems design, developing a project that reduced energy consumption in industrial applications by 15%.
 
-Believing in the synergy of visualization and technical acumen, I advocate for making complex concepts accessible and comprehensible to a broader audience, fostering effective communication and understanding.
+### International Open University, Bachelors (Completed 07/2013)
+**BSc Electronic Engineering**
+- Mastered deep learning, CNNs, and reinforcement learning with TensorFlow and PyTorch. Engaged in generative AI and image processing.
 
-### 📈 Current Projects
+## Achievements
 
-- **Home Automation Simulator**: Developing a Unity-based 3D simulator that integrates AI for intelligent decision-making in smart homes.
-- **AI-Driven Analytics Dashboard**: Utilizing D3.js and ThreeJS for crafting interactive, user-friendly data visualizations.
-- **Autonomous Systems Research**: Engaged in MSc projects focused on practical applications of Reinforcement Learning.
+- **1st Place, CitySpark Startup Competition (2022):** Recognized for innovative AI education concepts.
+- **Pioneering Home Automation Projects:** Lauded for integrating advanced AI in over 100 home automation projects.
 
-### 🤝 Let's Connect
-
-- **LinkedIn**: [Connect with Will on LinkedIn](https://www.linkedin.com/in/smartwill/)
-- **Portfolio**: [Explore Will's Portfolio](https://wlaa41.github.io/Portfolio/)
-[Explore My Portfolio](https://wlaa41.github.io/Portfolio/)
-
----
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<p align="center">
-**Fun Fact**: They say in the world of binary, there are 10 types of people: those who understand binary and those who don't! 😄
-</p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<!---
-<p align="center">
-  <img src="./intro.svg" alt="Will Jamous - AI and Robotics Professional" />
-</p>
-
-<!---
-wlaa41/wlaa41 is a ✨ special ✨ repository because its `README.md’ (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
