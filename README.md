@@ -1,24 +1,10 @@
 # Walaa Will Jamous
 ## Robotic/DevOps Engineer
-- 📞 07307565444
 - 📧 [rutaul41@gmail.com](mailto:rutaul41@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/smartwill/)
 - 💻 [GitHub](https://github.com/wlaa41)
-- 📍 Right of Work: British
 
 ## Skills & Other
-- **Tools**: Python, JavaScript, HTML, C#, Docker, Kubernetes, Terraform, Ansible, Azure, Azure DevOps, Git, GitHub, Prometheus, TensorFlow, PyTorch, CNNs, RL, ANN. KNX, Control4, MATLAB.
-- **Robotics**: Cameras, lidars, IMUs, GNSS, and ground truth systems like motion capture and 3D scanning.
-- **Modeling, 3D, & Visualization**: SketchUp, AutoCAD, SolidWorks, ThreeJS, Panda, Plotly.
-- **Certifications**: BSc Electrical Engineering, Hashicorp Terraform Associate 003 (in progress), DevOps Engineering (AiCore). (Distinction) PG in Artificial Intelligence and Machine Learning (City, University of London). KNX Engineer.
-
-## Work Experience
-### Appitunity
-**R&D Manager** - 01/2018 – 01/2022
-- Spearheaded 30+ SEO, SEM, and website optimization projects, demonstrating strategic leadership.
-- Led a team of 15+ software developers and engineers, driving software innovations and AI integrations to enhance user experience and operational efficiency.
-- Led the deployment of 150+ cloud-based and embedded systems projects, enhancing operational efficiencies and embedded system reliability across multiple platforms.
-- Managed and coordinated cross-functional teams of up to 20+ members, facilitating collaboration and project success in complex technical environments.
 
 ## Projects
 ### Azure DevOps Pipeline - 11/2023
@@ -47,13 +33,9 @@
 - Utilized MATLAB for simulation and analysis, contributing to aerospace engineering and autonomous vehicle development through stability analysis with eigenvectors and eigenvalues.
 
 ### AI Projects (11/2021)
-- Led Python-based AI & ML projects, including pathfinding with Ant Colony, ANN Simulation with 92% accuracy on MNIST, and optimized routing with Dijkstra's and A* algorithms.
+- Python-based AI & ML projects, including pathfinding with Ant Colony, ANN Simulation with 92% accuracy on MNIST, and optimized routing with Dijkstra's and A* algorithms.
 - Achieved 92% accuracy in Boston dataset house price predictions, demonstrating strong data analysis and machine learning model development skills.
 - Applied the Rescorla-Wagner model for psychological learning simulations, bridging theoretical AI concepts with practical applications.
-
-## Smart Home Automation Projects (12/2019)
-- Directed over 100 luxury smart home projects, integrating DALI, KNX, and C-Bus systems for mansions, villas, and palaces.
-- Automated high-end features such as AC, jacuzzis, curtains, and garages using Control4 and Crestron systems; proficient with Jira, Jung, Schneider Electric, and ABB.
 
 ## Education
 
@@ -69,8 +51,8 @@
 **MSc in Artificial Intelligence and Machine Learning**
 - Specialized in embedded systems design, developing a project that reduced energy consumption in industrial applications by 15%.
 
-### International Open University, Bachelors (Completed 07/2013)
-**BSc Electronic Engineering**
+### Open University, Bachelors (Completed 07/2013)
+**BSc Electric and Electronic Engineering**
 - Mastered deep learning, CNNs, and reinforcement learning with TensorFlow and PyTorch. Engaged in generative AI and image processing.
 
 ## Achievements
