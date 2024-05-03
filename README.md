@@ -1,4 +1,4 @@
-# Walaa Will Jamous
+# Will Jamous
 ## Robotic/DevOps Engineer
 - 📧 [rutaul41@gmail.com](mailto:rutaul41@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/smartwill/)
