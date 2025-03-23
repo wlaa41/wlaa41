@@ -4,6 +4,7 @@
 - 📧 [rutaul41@gmail.com](mailto:rutaul41@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/smartwill/)
 - 💻 [GitHub](https://github.com/wlaa41)
+- 💻 [Reviews](https://g.page/r/CVC1eOMHuASREBM/review)
 
 ## Skills & Other
 
