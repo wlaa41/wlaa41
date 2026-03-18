@@ -1,7 +1,8 @@
 # Will Jamous
 ## Robotic/DevOps Engineer
 - 💻 [Web](https://wlaa41.github.io/Portfolio/)
-- 💻 [App](https://appitunityuk.netlify.app/)
+- 💻 [Appitunity](https://appitunityuk.netlify.app/)
+- 💻 [Research](https://owresearch.netlify.app/)
 - 💻 [AI Edu](https://ayeeye.netlify.app/)
 - 📧 [rutaul41@gmail.com](mailto:rutaul41@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/smartwill/)
